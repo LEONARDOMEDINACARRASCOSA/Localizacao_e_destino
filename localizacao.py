@@ -6,7 +6,7 @@ import unicodedata
 # CONFIGURAÇÃO DA PÁGINA STREAMLIT
 # =====================================
 st.set_page_config(
-    page_title="Assistente de Trânsito Leonardo Medina 🚗",
+    page_title="Assistente de Trânsito TomTom",
     page_icon="🚗",
     layout="centered"
 )

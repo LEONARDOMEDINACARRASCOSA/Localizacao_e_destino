@@ -110,7 +110,7 @@ def validar_api_key():
 # =====================================
 # INTERFACE INTERATIVA (STREAMLIT)
 # =====================================
-st.title("🚗 Assistente de Trânsito — TomTom")
+st.title("🚗 Assistente de Trânsito —  Leonardo Medina")
 st.markdown("Calcule rotas, distância e a situação do trânsito em tempo real.")
 
 # Validação visual da API Key
